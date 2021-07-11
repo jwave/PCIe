@@ -34,5 +34,6 @@ MCFG字段由hostbridge 的PCIEXBAR寄存器所定义，包含了起始地址和
 
 ## 参考链接
 [深入PCI与PCIe之一：硬件篇](https://zhuanlan.zhihu.com/p/26172972)
+
 [深入PCI与PCIe之二：软件篇](https://zhuanlan.zhihu.com/p/26244141)
 
