@@ -37,3 +37,7 @@ MCFG字段由hostbridge 的PCIEXBAR寄存器所定义，包含了起始地址和
 
 [深入PCI与PCIe之二：软件篇](https://zhuanlan.zhihu.com/p/26244141)
 
+[System address map initialization in x86/x64 architecture part 1: PCI-based systems](https://resources.infosecinstitute.com/topic/system-address-map-initialization-in-x86x64-architecture-part-1-pci-based-systems/)
+
+[System address map initialization in x86/x64 architecture part 2: PCI express-based systems](https://resources.infosecinstitute.com/topic/system-address-map-initialization-x86x64-architecture-part-2-pci-express-based-systems/)
+
