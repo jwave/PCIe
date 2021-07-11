@@ -9,6 +9,12 @@
 传统的PCI设备配置空间通过in/out指令来访问，配置空间地址和数据分别对应端口0xCF8，0XCFC。端口所在地址空间与内存地址空间单独编码。
 
 ## PCIe
+### 总线结构
+
+### Transaction routing
+
+### Address Decoder
+
 ### 基本信息
 除了兼容PCI的BDF划分（8:5:3），最多支持256个BUSes，PCIe对此作了扩展支持，及PCI segment Groups支持，系统允许最多存在2^16 Groups，每个 Groups 包含256个Buses。
 ### 配置空间（configuration space）
